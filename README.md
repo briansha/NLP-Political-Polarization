@@ -1,6 +1,8 @@
 # NLP-Political-Polarization
 
-## Thesis Title: Analyzing Political Polarization in News Media with Natural Language Processing
+## Analyzing Political Polarization in News Media with Natural Language Processing
+
+The work in this repository was used to develop my thesis.
 
 Classification_Pandas.ipynb notebooks: Training of machine learning models.
 
