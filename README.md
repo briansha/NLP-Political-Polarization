@@ -2,7 +2,7 @@
 
 ## Analyzing Political Polarization in News Media with Natural Language Processing
 
-The work in this repository was used to develop my thesis.
+Thesis work.
 
 Classification_Pandas.ipynb notebooks: Training of machine learning models.
 
