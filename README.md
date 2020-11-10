@@ -4,7 +4,7 @@
 
 Thesis work.
 
-Classification_Pandas.ipynb notebooks: Training of machine learning models.
+Classification_Pandas.ipynb notebooks: Training of machine learning models. There are six of these due to training time (can run four at once in parallel). Otherwise, training of models could have been comprised in one notebook.
 
 Load_Picklefile.ipynb: Displays results and accuracy of each model against the overall dataset.
 
